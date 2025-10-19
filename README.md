@@ -10,6 +10,9 @@ Building data pipelines that power intelligent systems — from ingestion to ins
 
 ---
 
+
+
+
 ### About Me
 I'm a data-driven engineer passionate about designing scalable systems that merge AI and data engineering.  
 Currently exploring serverless architectures, PySpark pipelines, and ML-powered automation for real-world use cases.
