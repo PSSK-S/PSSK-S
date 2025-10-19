@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Satya Pithani  
+# Hi, I'm Satya Pithani
+Building data pipelines that power intelligent systems — from ingestion to insights.
 
 🎯 Data Engineer & AI Enthusiast focused on building intelligent data pipelines and automation tools.  
 ⚙️ Experienced with Python, AWS, PySpark, and FastAPI — from serverless ETL to ML-driven analytics.  
