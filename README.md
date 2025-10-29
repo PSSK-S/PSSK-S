@@ -43,6 +43,18 @@ Currently exploring serverless architectures, PySpark pipelines, and ML-powered 
 **ML/AI:** Hugging Face, Scikit-learn, TensorFlow  
 **Other:** Git, Docker, Linux, VS Code  
 
+
+## 💻 Social Media Profiles 💻
+
+| Coding Profile | Social Media |
+|----------------|---------------|
+| Hacker Rank | [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/satya-pithani) |
+| Strata scratch | Portfolio Website |
+| [Leet Code](https://leetcode.com/u/spithani/) | Art Account |
+| Data Lemur | Tableau Public |
+| Code Wars |  |
+
+
 ---
 
 ### GitHub Stats
