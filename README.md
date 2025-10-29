@@ -1,10 +1,10 @@
 # Hi, I'm Satya Pithani
 Building data pipelines that power intelligent systems — from ingestion to insights.
 
-🎯 Data Engineer & AI Enthusiast focused on building intelligent data pipelines and automation tools.  
-⚙️ Experienced with Python, AWS, PySpark, and FastAPI — from serverless ETL to ML-driven analytics.  
-🎓 M.S. Computer Science @ Eastern Illinois University (Dec 2025) | Ex-TCS MES Developer.  
-🚀 Passionate about transforming raw data into business insights using scalable cloud and AI systems.
+ Data Engineer & AI Enthusiast focused on building intelligent data pipelines and automation tools.  
+ Experienced with Python, AWS, PySpark, and FastAPI — from serverless ETL to ML-driven analytics.  
+ M.S. Computer Science @ Eastern Illinois University (Dec 2025) | Ex-TCS MES Developer.  
+ Passionate about transforming raw data into business insights using scalable cloud and AI systems.
 
 
 
@@ -44,15 +44,16 @@ Currently exploring serverless architectures, PySpark pipelines, and ML-powered 
 **Other:** Git, Docker, Linux, VS Code  
 
 
-## 💻 Social Media Profiles 💻
+## Social Media Profiles 
 
 | Coding Profile | Social Media |
 |----------------|---------------|
 | Hacker Rank | [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/satya-pithani) |
 | Strata scratch | Portfolio Website |
-| [Leet Code](https://leetcode.com/u/spithani/) | Art Account |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/spithani/) | Art Account |
 | Data Lemur | Tableau Public |
 | Code Wars |  |
+
 
 
 ---
